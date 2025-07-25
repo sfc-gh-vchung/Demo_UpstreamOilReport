@@ -1,0 +1,1 @@
+This folder contains notebook and yaml for transforming data, basic data visualizations, fitting a Prophet time series forecast model, and storing that model into Snowflake model registry.
